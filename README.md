@@ -1,5 +1,8 @@
 # luulpos
-This application was generated using JHipster 5.7.0, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v5.7.0](https://www.jhipster.tech/documentation-archive/v5.7.0).
+This is the Backend of Luul POS system. A modern tablet based Point Of Sale.
+
+## Tutorial Videos
+https://www.youtube.com/watch?v=2aXTGFbQWWg&list=PL5zqnt1ZMVL95co2xogkG9bohbY92zn1_
 
 ## Development
 
