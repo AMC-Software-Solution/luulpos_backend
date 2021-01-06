@@ -2,7 +2,10 @@
 This is the Backend of Luul POS system. A modern tablet based Point Of Sale.
 
 ## Tutorial Videos
+English
 https://www.youtube.com/watch?v=2aXTGFbQWWg&list=PL5zqnt1ZMVL95co2xogkG9bohbY92zn1_
+Somali
+https://www.youtube.com/watch?v=83Ux-pV0tHo&list=PL5zqnt1ZMVL9a5ugpHYec5CaCWlr01OPw
 
 ## Development
 
